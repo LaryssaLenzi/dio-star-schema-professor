@@ -34,4 +34,4 @@ O foco da análise é o **Professor**. Por isso, a tabela fato centraliza métri
 - **Streamlit** (Para a interface visual do modelo)
 
 ---
-Desenvolvido por [Seu Nome] durante a Formação Power BI Analyst.
+Desenvolvido por Laryssa Lenzi durante a Formação Power BI Analyst.
